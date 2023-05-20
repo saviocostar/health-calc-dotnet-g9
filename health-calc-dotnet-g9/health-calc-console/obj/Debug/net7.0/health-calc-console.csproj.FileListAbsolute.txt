@@ -1,0 +1,15 @@
+C:\Users\SavioCosta\Documents\Documentos pessoais\Puc\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\bin\Debug\net7.0\health-calc-console.exe
+C:\Users\SavioCosta\Documents\Documentos pessoais\Puc\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\bin\Debug\net7.0\health-calc-console.deps.json
+C:\Users\SavioCosta\Documents\Documentos pessoais\Puc\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\bin\Debug\net7.0\health-calc-console.runtimeconfig.json
+C:\Users\SavioCosta\Documents\Documentos pessoais\Puc\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\bin\Debug\net7.0\health-calc-console.dll
+C:\Users\SavioCosta\Documents\Documentos pessoais\Puc\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\bin\Debug\net7.0\health-calc-console.pdb
+C:\Users\SavioCosta\Documents\Documentos pessoais\Puc\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\obj\Debug\net7.0\health-calc-console.csproj.AssemblyReference.cache
+C:\Users\SavioCosta\Documents\Documentos pessoais\Puc\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\obj\Debug\net7.0\health-calc-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SavioCosta\Documents\Documentos pessoais\Puc\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\obj\Debug\net7.0\health-calc-console.AssemblyInfoInputs.cache
+C:\Users\SavioCosta\Documents\Documentos pessoais\Puc\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\obj\Debug\net7.0\health-calc-console.AssemblyInfo.cs
+C:\Users\SavioCosta\Documents\Documentos pessoais\Puc\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\obj\Debug\net7.0\health-calc-console.csproj.CoreCompileInputs.cache
+C:\Users\SavioCosta\Documents\Documentos pessoais\Puc\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\obj\Debug\net7.0\health-calc-console.dll
+C:\Users\SavioCosta\Documents\Documentos pessoais\Puc\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\obj\Debug\net7.0\refint\health-calc-console.dll
+C:\Users\SavioCosta\Documents\Documentos pessoais\Puc\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\obj\Debug\net7.0\health-calc-console.pdb
+C:\Users\SavioCosta\Documents\Documentos pessoais\Puc\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\obj\Debug\net7.0\health-calc-console.genruntimeconfig.cache
+C:\Users\SavioCosta\Documents\Documentos pessoais\Puc\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\obj\Debug\net7.0\ref\health-calc-console.dll

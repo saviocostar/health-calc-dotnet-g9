@@ -1,0 +1,12 @@
+C:\Users\SavioCosta\Documents\Documentos pessoais\Puc\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-dotnet-g9\bin\Debug\net7.0\health-calc-dotnet-g9.deps.json
+C:\Users\SavioCosta\Documents\Documentos pessoais\Puc\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-dotnet-g9\bin\Debug\net7.0\health-calc-dotnet-g9.dll
+C:\Users\SavioCosta\Documents\Documentos pessoais\Puc\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-dotnet-g9\bin\Debug\net7.0\health-calc-dotnet-g9.pdb
+C:\Users\SavioCosta\Documents\Documentos pessoais\Puc\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-dotnet-g9\obj\Debug\net7.0\health-calc-dotnet-g9.csproj.AssemblyReference.cache
+C:\Users\SavioCosta\Documents\Documentos pessoais\Puc\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-dotnet-g9\obj\Debug\net7.0\health-calc-dotnet-g9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SavioCosta\Documents\Documentos pessoais\Puc\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-dotnet-g9\obj\Debug\net7.0\health-calc-dotnet-g9.AssemblyInfoInputs.cache
+C:\Users\SavioCosta\Documents\Documentos pessoais\Puc\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-dotnet-g9\obj\Debug\net7.0\health-calc-dotnet-g9.AssemblyInfo.cs
+C:\Users\SavioCosta\Documents\Documentos pessoais\Puc\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-dotnet-g9\obj\Debug\net7.0\health-calc-dotnet-g9.csproj.CoreCompileInputs.cache
+C:\Users\SavioCosta\Documents\Documentos pessoais\Puc\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-dotnet-g9\obj\Debug\net7.0\health-calc-dotnet-g9.dll
+C:\Users\SavioCosta\Documents\Documentos pessoais\Puc\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-dotnet-g9\obj\Debug\net7.0\refint\health-calc-dotnet-g9.dll
+C:\Users\SavioCosta\Documents\Documentos pessoais\Puc\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-dotnet-g9\obj\Debug\net7.0\health-calc-dotnet-g9.pdb
+C:\Users\SavioCosta\Documents\Documentos pessoais\Puc\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-dotnet-g9\obj\Debug\net7.0\ref\health-calc-dotnet-g9.dll
