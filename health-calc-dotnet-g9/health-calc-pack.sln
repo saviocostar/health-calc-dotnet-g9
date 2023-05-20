@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33712.159
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "health-calc-dotnet-g9", "health-calc-dotnet-g9\health-calc-dotnet-g9.csproj", "{41304C30-C5E9-43B2-BF5E-1837AC4386BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Health-Calc-Pack", "health-calc-dotnet-g9\Health-Calc-Pack.csproj", "{41304C30-C5E9-43B2-BF5E-1837AC4386BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "health-calc-console", "health-calc-console\health-calc-console.csproj", "{6460F513-E849-4E74-BEB8-E9B1F7BC8734}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Health-Calc-Pack-Console", "health-calc-console\Health-Calc-Pack-Console.csproj", "{6460F513-E849-4E74-BEB8-E9B1F7BC8734}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "health-calc-test", "health-calc-test\health-calc-test.csproj", "{B5680413-09F7-46EE-8DF7-3A456FD1053C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Health-Calc-Pack-Test", "health-calc-test\Health-Calc-Pack-Test.csproj", "{B5680413-09F7-46EE-8DF7-3A456FD1053C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

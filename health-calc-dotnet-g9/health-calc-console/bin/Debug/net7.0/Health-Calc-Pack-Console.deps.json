@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Health-Calc-Pack-Console/1.0.0": {
+        "runtime": {
+          "Health-Calc-Pack-Console.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Health-Calc-Pack-Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
