@@ -13,3 +13,6 @@ C:\Git\Pós\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\obj\
 C:\Git\Pós\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\obj\Debug\net7.0\Health-Calc-Pack-Console.pdb
 C:\Git\Pós\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\obj\Debug\net7.0\Health-Calc-Pack-Console.genruntimeconfig.cache
 C:\Git\Pós\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\obj\Debug\net7.0\ref\Health-Calc-Pack-Console.dll
+C:\Git\Pós\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\bin\Debug\net7.0\Health-Calc-Pack.dll
+C:\Git\Pós\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\bin\Debug\net7.0\Health-Calc-Pack.pdb
+C:\Git\Pós\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\obj\Debug\net7.0\Health-Calc-Pack-Console.csproj.CopyComplete

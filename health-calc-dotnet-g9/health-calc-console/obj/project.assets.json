@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "Health-Calc-Pack/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Health-Calc-Pack.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Health-Calc-Pack.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Health-Calc-Pack/1.0.0": {
+      "type": "project",
+      "path": "../health-calc-dotnet-g9/Health-Calc-Pack.csproj",
+      "msbuildProject": "../health-calc-dotnet-g9/Health-Calc-Pack.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "Health-Calc-Pack >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\jhonata.santos\\.nuget\\packages\\": {},
@@ -42,7 +61,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Git\\Pós\\health-calc-dotnet-g9\\health-calc-dotnet-g9\\health-calc-dotnet-g9\\Health-Calc-Pack.csproj": {
+              "projectPath": "C:\\Git\\Pós\\health-calc-dotnet-g9\\health-calc-dotnet-g9\\health-calc-dotnet-g9\\Health-Calc-Pack.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
