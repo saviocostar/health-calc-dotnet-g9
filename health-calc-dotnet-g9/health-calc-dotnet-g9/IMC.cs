@@ -1,8 +1,8 @@
 ﻿using Health_Calc_Pack.Interfaces;
-    
+
 namespace Health_Calc_Pack
 {
-    public class IMC: IIMC
+    public class IMC : IIMC
     {
         public double CalcIMC(double Height, double Weight)
         {
@@ -33,8 +33,8 @@ namespace Health_Calc_Pack
 
 
             return Imc switch
-            {
-                < MAGREZA_FAIXA1 => MAGREZA,
+            {               
+                > 0 and < MAGREZA_FAIXA1 => MAGREZA,
                 > NORMAL_FAIXA1 and < NORMAL_FAIXA2 => NORMAL,
                 > SOBREPESO_FAIXA1 and < SOBREPESO_FAIXA2 => SOBREPESO,
                 > OBESIDADE_FAIXA1 and < OBESIDADE_FAIXA2 => OBESIDADE,
@@ -43,9 +43,12 @@ namespace Health_Calc_Pack
             };
         }
 
-        public double IsValidData(double Height, double Weight)
+        public bool IsValidData(double Height, double Weight)
         {
-            throw new NotImplementedException();
+            return Height < 3
+                    && Height > 0
+                    && Weight < 300
+                    && Weight > 0;
         }
     }
 }
