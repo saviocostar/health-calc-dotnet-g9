@@ -8,37 +8,24 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\jhonata.santos\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\SavioCosta\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Git\\Pós\\health-calc-dotnet-g9\\health-calc-dotnet-g9\\health-calc-dotnet-g9\\Health-Calc-Pack.csproj",
+      "projectUniqueName": "C:\\Users\\SavioCosta\\Documents\\Documentos pessoais\\Puc\\Projeto integrados de Software\\health-calc-dotnet-g9\\health-calc-dotnet-g9\\health-calc-dotnet-g9\\Health-Calc-Pack.csproj",
       "projectName": "Health-Calc-Pack",
-      "projectPath": "C:\\Git\\Pós\\health-calc-dotnet-g9\\health-calc-dotnet-g9\\health-calc-dotnet-g9\\Health-Calc-Pack.csproj",
-      "packagesPath": "C:\\Users\\jhonata.santos\\.nuget\\packages\\",
-      "outputPath": "C:\\Git\\Pós\\health-calc-dotnet-g9\\health-calc-dotnet-g9\\health-calc-dotnet-g9\\obj\\",
+      "projectPath": "C:\\Users\\SavioCosta\\Documents\\Documentos pessoais\\Puc\\Projeto integrados de Software\\health-calc-dotnet-g9\\health-calc-dotnet-g9\\health-calc-dotnet-g9\\Health-Calc-Pack.csproj",
+      "packagesPath": "C:\\Users\\SavioCosta\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\SavioCosta\\Documents\\Documentos pessoais\\Puc\\Projeto integrados de Software\\health-calc-dotnet-g9\\health-calc-dotnet-g9\\health-calc-dotnet-g9\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\jhonata.santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\SavioCosta\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
-      "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
-        "http://vmbplantap01dev/NuGetServer/nuget": {},
-        "http://vmbtfs01des/FcNugetServer/Nuget/": {},
-        "http://vmnexus01/repository/fun-nuget-hosted/": {},
-        "https://api.nuget.org/v3/index.json": {}
-      },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
@@ -70,28 +57,8 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1803",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://vmbplantap01dev/NuGetServer/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
-    },
-    {
-      "code": "NU1803",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://vmbtfs01des/FcNugetServer/Nuget/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
-    },
-    {
-      "code": "NU1803",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://vmnexus01/repository/fun-nuget-hosted/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
-    }
-  ]
+  }
 }

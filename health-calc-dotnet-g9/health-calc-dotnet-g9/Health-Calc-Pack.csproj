@@ -5,10 +5,27 @@
     <RootNamespace>Health-Calc-Pack</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+	<Title>Calculadora de IMC e Macronutrientes</Title>
+	<Authors>Grupo 9</Authors>
+	<Description>HealthCalcPack é uma biblioteca abrangente e poderosa que fornece uma variedade de cálculos essenciais para aplicativos relacionados à saúde e nutrição como simplificar o processo de cálculo Índice de Massa Corporal (IMC) e requisitos de macronutrientes, permitindo que os desenvolvedores criem software robusto de saúde e condicionamento físico com facilidade.
+	</Description>
+	<PackageProjectUrl>https://github.com/saviocostar/health-calc-dotnet-g9</PackageProjectUrl>
+	<PackageIcon>logo.png</PackageIcon>
+	<PackageReadmeFile>README.md</PackageReadmeFile>
+	<RepositoryUrl>https://github.com/saviocostar/health-calc-dotnet-g9</RepositoryUrl>
+	<RepositoryType>git</RepositoryType>
+	<PackageReleaseNotes>First release.</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Enum\" />
+	  <None Include="..\..\..\docs\logo.png">
+		  <Pack>True</Pack>
+		  <PackagePath>\</PackagePath>
+	  </None>
+	  <None Include="..\..\..\README.md">
+		  <Pack>True</Pack>
+		  <PackagePath>\</PackagePath>
+	  </None>
   </ItemGroup>
 
 </Project>

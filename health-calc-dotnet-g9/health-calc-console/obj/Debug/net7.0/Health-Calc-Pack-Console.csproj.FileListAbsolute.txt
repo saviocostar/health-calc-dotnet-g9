@@ -1,18 +1,18 @@
-C:\Git\Pós\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\bin\Debug\net7.0\Health-Calc-Pack-Console.exe
-C:\Git\Pós\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\bin\Debug\net7.0\Health-Calc-Pack-Console.deps.json
-C:\Git\Pós\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\bin\Debug\net7.0\Health-Calc-Pack-Console.runtimeconfig.json
-C:\Git\Pós\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\bin\Debug\net7.0\Health-Calc-Pack-Console.dll
-C:\Git\Pós\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\bin\Debug\net7.0\Health-Calc-Pack-Console.pdb
-C:\Git\Pós\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\obj\Debug\net7.0\Health-Calc-Pack-Console.csproj.AssemblyReference.cache
-C:\Git\Pós\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\obj\Debug\net7.0\Health-Calc-Pack-Console.GeneratedMSBuildEditorConfig.editorconfig
-C:\Git\Pós\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\obj\Debug\net7.0\Health-Calc-Pack-Console.AssemblyInfoInputs.cache
-C:\Git\Pós\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\obj\Debug\net7.0\Health-Calc-Pack-Console.AssemblyInfo.cs
-C:\Git\Pós\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\obj\Debug\net7.0\Health-Calc-Pack-Console.csproj.CoreCompileInputs.cache
-C:\Git\Pós\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\obj\Debug\net7.0\Health-Calc-Pack-Console.dll
-C:\Git\Pós\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\obj\Debug\net7.0\refint\Health-Calc-Pack-Console.dll
-C:\Git\Pós\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\obj\Debug\net7.0\Health-Calc-Pack-Console.pdb
-C:\Git\Pós\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\obj\Debug\net7.0\Health-Calc-Pack-Console.genruntimeconfig.cache
-C:\Git\Pós\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\obj\Debug\net7.0\ref\Health-Calc-Pack-Console.dll
-C:\Git\Pós\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\bin\Debug\net7.0\Health-Calc-Pack.dll
-C:\Git\Pós\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\bin\Debug\net7.0\Health-Calc-Pack.pdb
-C:\Git\Pós\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\obj\Debug\net7.0\Health-Calc-Pack-Console.csproj.CopyComplete
+C:\Users\SavioCosta\Documents\Documentos pessoais\Puc\Projeto integrados de Software\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\bin\Debug\net7.0\Health-Calc-Pack-Console.exe
+C:\Users\SavioCosta\Documents\Documentos pessoais\Puc\Projeto integrados de Software\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\bin\Debug\net7.0\Health-Calc-Pack-Console.deps.json
+C:\Users\SavioCosta\Documents\Documentos pessoais\Puc\Projeto integrados de Software\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\bin\Debug\net7.0\Health-Calc-Pack-Console.runtimeconfig.json
+C:\Users\SavioCosta\Documents\Documentos pessoais\Puc\Projeto integrados de Software\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\bin\Debug\net7.0\Health-Calc-Pack-Console.dll
+C:\Users\SavioCosta\Documents\Documentos pessoais\Puc\Projeto integrados de Software\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\bin\Debug\net7.0\Health-Calc-Pack-Console.pdb
+C:\Users\SavioCosta\Documents\Documentos pessoais\Puc\Projeto integrados de Software\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\bin\Debug\net7.0\Health-Calc-Pack.dll
+C:\Users\SavioCosta\Documents\Documentos pessoais\Puc\Projeto integrados de Software\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\bin\Debug\net7.0\Health-Calc-Pack.pdb
+C:\Users\SavioCosta\Documents\Documentos pessoais\Puc\Projeto integrados de Software\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\obj\Debug\net7.0\Health-Calc-Pack-Console.csproj.AssemblyReference.cache
+C:\Users\SavioCosta\Documents\Documentos pessoais\Puc\Projeto integrados de Software\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\obj\Debug\net7.0\Health-Calc-Pack-Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SavioCosta\Documents\Documentos pessoais\Puc\Projeto integrados de Software\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\obj\Debug\net7.0\Health-Calc-Pack-Console.AssemblyInfoInputs.cache
+C:\Users\SavioCosta\Documents\Documentos pessoais\Puc\Projeto integrados de Software\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\obj\Debug\net7.0\Health-Calc-Pack-Console.AssemblyInfo.cs
+C:\Users\SavioCosta\Documents\Documentos pessoais\Puc\Projeto integrados de Software\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\obj\Debug\net7.0\Health-Calc-Pack-Console.csproj.CoreCompileInputs.cache
+C:\Users\SavioCosta\Documents\Documentos pessoais\Puc\Projeto integrados de Software\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\obj\Debug\net7.0\Health-Calc-Pack-Console.csproj.CopyComplete
+C:\Users\SavioCosta\Documents\Documentos pessoais\Puc\Projeto integrados de Software\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\obj\Debug\net7.0\Health-Calc-Pack-Console.dll
+C:\Users\SavioCosta\Documents\Documentos pessoais\Puc\Projeto integrados de Software\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\obj\Debug\net7.0\refint\Health-Calc-Pack-Console.dll
+C:\Users\SavioCosta\Documents\Documentos pessoais\Puc\Projeto integrados de Software\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\obj\Debug\net7.0\Health-Calc-Pack-Console.pdb
+C:\Users\SavioCosta\Documents\Documentos pessoais\Puc\Projeto integrados de Software\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\obj\Debug\net7.0\Health-Calc-Pack-Console.genruntimeconfig.cache
+C:\Users\SavioCosta\Documents\Documentos pessoais\Puc\Projeto integrados de Software\health-calc-dotnet-g9\health-calc-dotnet-g9\health-calc-console\obj\Debug\net7.0\ref\Health-Calc-Pack-Console.dll

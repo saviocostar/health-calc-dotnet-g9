@@ -1,27 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eCo+d4KqVPsId0eWppAl43cjKedfMCdcaq4jmYe4WWaCVEIxVCY9KUwhPvqm7BwJwyfa5Wj57hR+xPuFlE1WeQ==",
+  "dgSpecHash": "0kHLLzm67Gbzdtd4gaE+fbA3Lor9viOhQoQ6/ayDiRh6HNX04XDr3nfQ770mMgOiiJmrXUCC+x54rJ5xIBBXpg==",
   "success": true,
-  "projectFilePath": "C:\\Git\\Pós\\health-calc-dotnet-g9\\health-calc-dotnet-g9\\health-calc-dotnet-g9\\Health-Calc-Pack.csproj",
+  "projectFilePath": "C:\\Users\\SavioCosta\\Documents\\Documentos pessoais\\Puc\\Projeto integrados de Software\\health-calc-dotnet-g9\\health-calc-dotnet-g9\\health-calc-dotnet-g9\\Health-Calc-Pack.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1803",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://vmbplantap01dev/NuGetServer/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
-    },
-    {
-      "code": "NU1803",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://vmbtfs01des/FcNugetServer/Nuget/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
-    },
-    {
-      "code": "NU1803",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://vmnexus01/repository/fun-nuget-hosted/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
-    }
-  ]
+  "logs": []
 }
