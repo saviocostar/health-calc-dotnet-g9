@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\health-calc-dotnet-g9",
-    "\\health-calc-dotnet-g9\\health-calc-dotnet-g9",
-    "\\health-calc-dotnet-g9\\health-calc-test"
+    "\\health-calc-dotnet-g9\\health-calc-console"
   ],
-  "SelectedNode": "\\health-calc-dotnet-g9\\health-calc-test\\MacroNutrientesTests",
+  "SelectedNode": "\\health-calc-dotnet-g9\\health-calc-console\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
